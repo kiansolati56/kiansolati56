@@ -1,11 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Im+Mohamad+Shiravi+-+Front-end+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=50&color=FFFFFF&background=0d1117&lines=Im+Kian+Solati,+Front-end+Developer)
 
 -----------------------------
 
-* I'm based in Iran - shiraz
-* You can contact me at [kiansolati56@gmail.com](mailto:kiansolati56@gmail.com)
-* I'm open to collaborating on Vue.js and Nuxt.js project.
+* 📍 Living in **Mashhad, Iran**
+* 📬 Reach me anytime: [kiansolati56@gmail.com](mailto:kiansolati56@gmail.com)
+* 🤝 Open to cool **Vue.js** & **Nuxt.js** collabs — let’s build something awesome together!
 
 -----------------------------
 
