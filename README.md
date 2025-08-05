@@ -1,6 +1,5 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=50&color=FFFFFF&background=0d1117&lines=Im+Kian+Solati,+Front-end+Developer)
-
 ---
 
 * Available for **Vue.js** & **Nuxt.js** collaborations.
