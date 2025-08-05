@@ -5,7 +5,7 @@
 
 * 📍 Living in **Mashhad, Iran**
 * 📬 Reach me anytime: [kiansolati56@gmail.com](mailto:kiansolati56@gmail.com)
-* 🤝 Open to cool **Vue.js** & **Nuxt.js** collabs — let’s build something awesome together!
+* 🤝 Open to cool **Vue.js** & **Nuxt.js** collabs. let’s build something awesome together!
 
 -----------------------------
 
