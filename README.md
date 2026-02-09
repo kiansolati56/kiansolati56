@@ -3,7 +3,6 @@
 ---
 
 * Available for **Vue.js** & **Nuxt.js** collaborations.
-* See my portfolio at [my website](https://kian-solati.xo.je/)
 
 ## Skills
 
