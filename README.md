@@ -1,12 +1,12 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=50&color=FFFFFF&background=0d1117&lines=Im+Kian+Solati,+Front-end+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=50&color=FFFFFF&background=0d1117&lines=Im+Kian,+Web+Developer)
 ---
 
-* Available for **Vue.js** & **Nuxt.js** collaborations.
+* Available for **Nuxt.js** collaborations.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,vue,nuxt,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxt,laravel,html,css,tailwind,javascript,vue,wordpress)](https://skillicons.dev)
 
 ## Social Media
 
